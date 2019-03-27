@@ -4,7 +4,7 @@ The goal of this challenge is to give you an opportunity to show us what you kno
 ## Introduction
 Your local movie theater wants to make things a bit more interesting to attract the younger audience.
 
-To to this, they came up with the idea of building a mobile application so the users can see which movies are available to watch, leave reviews, build a community, etc.
+To do this, they came up with the idea of building a mobile application so the users can see which movies are available to watch, leave reviews, build a community, etc.
 
 They have commended you with the task of building such app. Since it's a first version to test if it's a good product or not, they have chosen a few features to build first and then see what happens.
 
