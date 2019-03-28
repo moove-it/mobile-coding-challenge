@@ -4,11 +4,11 @@ The goal of this challenge is to give you an opportunity to show us what you kno
 ## Introduction
 Your local movie theater wants to make things a bit more interesting to attract the younger audience.
 
-To do this, they came up with the idea of building a mobile application so the users can see which movies are available to watch, leave reviews, build a community, etc.
+To do this, they came up with the idea of building a mobile application so users can see which movies are available to watch, leave reviews, build a community, etc.
 
 They have commended you with the task of building such app. Since it's a first version to test if it's a good product or not, they have chosen a few features to build first and then see what happens.
 
-Since they don't have a backend service, the first version of the application will be build using the public api https://developers.themoviedb.org/3
+Since they don't have a backend service, the first version of the application will be built using the public api https://developers.themoviedb.org/3
 
 ## Features
 The key features of the application will be:
@@ -25,7 +25,7 @@ After opening the app, users should be able to see a list of movies suggested by
 ### 2. Movie details
 Users should be able to access the details of the movies displayed on the discover section.
 
-- API endpoint: https://developers.themoviedb.org/3/discover/movie-discover
+- API endpoint: https://developers.themoviedb.org/3/movies/get-movie-details
 - Design reference (available on assets folder):
 
    <img src="./assets/detail.png">
@@ -33,7 +33,7 @@ Users should be able to access the details of the movies displayed on the discov
 ### 3. Movie reviews
 Users should be able to see a list of user reviews for a specific movie.
 
-- API endpoint: https://developers.themoviedb.org/3/discover/movie-discover
+- API endpoint: https://developers.themoviedb.org/3/movies/get-movie-reviews
 - Design reference (available on assets folder):
 
    <img src="./assets/reviews.png">
