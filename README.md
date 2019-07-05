@@ -1,5 +1,5 @@
 # Mobile Coding Challenge
-The goal of this challenge is to give you an opportunity to show us what you know and how you would work in a real life project.
+The goal of this challenge is to give you an opportunity to show us what you know and how you would work in a real-life project with real-life behaviours.
 
 ## Introduction
 Your local movie theater wants to make things a bit more interesting to attract the younger audience.
@@ -39,14 +39,15 @@ Users should be able to see a list of user reviews for a specific movie.
    <img src="./assets/reviews.png">
 
 ## Deliverables
-As with any project, the client expect the following deliverables:
+As with any project, the client expects the following deliverables:
 - The project's codebase delivered somehow (you pick).
+- Anything else you consider is important for understanding the application.
 
 ## FAQ
 - Do I need to add tests?
-  - Tests are not mandatory, test what you consider important.
+  - Tests should be added. Test what you consider important in a mobile application.
 - Do I need to follow the designs?
-  - The provided designs are just a guideline to give you a reference. Feel free to build the UI as you like.
+  - The provided designs are just a guideline to give you a reference. Feel free to build the UI as you like. If you find there's something better from the UI/UX perspective, we encourage you to do it.
 - Do I need to use some specific libraries?
   - No, build the app with the tools you prefer, there are no limits.
 - I'm doing the challenge on react-native, does it need to support both platforms?
