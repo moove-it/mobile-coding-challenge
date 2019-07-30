@@ -38,12 +38,17 @@ Users should be able to see a list of user reviews for a specific movie.
 
    <img src="./assets/reviews.png">
 
+### 4. Offline mode
+The app should be usable offline. Whenever there's no internet, the app should show the latest data that was recieved. Nevertheless, data should have an expiration date. If the latest data was fetched more than a day ago, it shouldn't be used and no data should be shown. This expiration date should be easily changeable, in order to be able to test it/update it. 
+
 ## Deliverables
+
 As with any project, the client expects the following deliverables:
 - The project's codebase delivered somehow (you pick).
 - Anything else you consider is important for understanding the application.
 
 ## FAQ
+
 - Do I need to add tests?
   - Tests should be added. Test what you consider important in a mobile application.
 - Do I need to follow the designs?
